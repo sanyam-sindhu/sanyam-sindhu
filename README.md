@@ -10,10 +10,9 @@ I'm Sanyam Sindhu, I'm a student 👨‍💻 who is passionate about cyber secur
 - 🌱 I’m currently preparing for future obviously :) 
 - 💬 Ask me about: cybersec, esports,cricket
 - 😄 Pronouns: he/him
--  ⚡ Languages: C++ , 
+- ⚡ Languages: C++ , C# 
 
 
-> El Psy Kongroo
 
 
 ---
