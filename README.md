@@ -14,7 +14,7 @@ I'm Sanyam Sindhu, I'm a student 👨‍💻 who is passionate about cyber secur
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyam-sindhu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyam-sindhu&theme=tokyonight" alt="mystreak"/>
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=sanyamsindhu)](https://github.com/sanyam-sindhu/github-readme)
 
 ---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
