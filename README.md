@@ -1,6 +1,6 @@
 # Sanyam Sindhu
-[![Twitter Badge](https://img.shields.io/badge/-@sanyam_sindhu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[[https://twitter.com/sanyam_sindhu](https://twitter.com/sanyam1sindhu)](https://twitter.com/sanyam1sindhu))](https://twitter.com/sanyam1sindhu)<a href="https://www.linkedin.com/in/sanyam-sindhu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Gmail Badge](https://img.shields.io/badge/-sindhusanyam0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sindhusanyam0@gmail.com)](mailto:sindhusanyam0.com)
+[![Twitter Badge](https://img.shields.io/badge/-@sanyam_sindhu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=[[https://twitter.com/sanyam_sindhu](https://twitter.com/sanyam1sindhu)](https://twitter.com/sanyam1sindhu))](https://twitter.com/sanyam1sindhu)<a href="https://www.linkedin.com/in/sanyam-sindhu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="sanyam-sindhu"></a>
+[![Gmail Badge](https://img.shields.io/badge/-SanyamSindhu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sindhusanyam0@gmail.com)](mailto:sindhusanyam0.com)
 
 ## Hi 👋, 
 I'm Sanyam Sindhu, I'm a student 👨‍💻 who is passionate about cyber security and coding up DSA all day. I'm also a self proclaimed coder and internet surfer 
