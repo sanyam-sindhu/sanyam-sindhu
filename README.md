@@ -4,7 +4,7 @@
 > ## I'm Sanyam Sindhu. 
 > Sophomore CS Undergrad, **Developer**, **Designer** and an avid learner.
 
- - 👋 I am Currently learning Backend Web-dev .
+ - 👋 I am Currently learning Frontend Web-dev .
  - 🌐 I am Exploring Open source projects while building on Web-Dev and Python. 
  - 💬 Ask me about Cybersec and new technologies
  - ⚡ Fun fact : I love networking and meeting new people !
@@ -33,7 +33,7 @@
 
 
 ### You can connect with me from _here_ 📧:
-[<img height=40 width=40 align="centre" alt="Mail me" src="./assets/mail.png">](gopidi.joshith@gmail.com)
+[<img height=40 width=40 align="centre" alt="Mail me" src="./assets/mail.png">](sindhusanyam0@gmail.com)
 [<img height=40 width=40 align="centre" alt="Connect on LinkedIn" src="./assets/linkedin.png">](https://www.linkedin.com/in/sanyam-sindhu/) 
 [<img height=40 width=40 align="centre" alt="Visit my Twitter Profile" src="./assets/twitter.png">](https://twitter.com/sanyam1sindhu) 
 [<img height=40 width=40 align="centre" alt="Visit my Instagram Profile" src="./assets/ig.png">](https://www.instagram.com/sanyam.sindhu/)
