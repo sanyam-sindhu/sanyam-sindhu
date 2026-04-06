@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-<img width="740px" src="https://activity-graph.herokuapp.com/graph?username=sanyam-sindhu&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401">
+<img width="740px" src="https://github-readme-activity-graph.vercel.app/graph?username=sanyam-sindhu&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401">
 </div>
 
 ---
